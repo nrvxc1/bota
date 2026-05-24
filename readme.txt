@@ -1,0 +1,7 @@
+- Установить NodeJs https://nodejs.org
+- Создать приложение в https://my.telegram.org
+- Создать бота через @BotFather
+- Заполнить файл .env 
+- Открыть терминал в папке с проектом
+- Прописать npm install
+- Прописать node main.js 
